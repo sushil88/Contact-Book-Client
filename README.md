@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Run:
+
+### `npm install`
+
+## Update config.js file
+Clone server locally and run it using ReadMe file
+### https://github.com/sushil88/Contact-Book-Server.git
+Add server api url in [config.js](https://github.com/sushil88/Contact-Book-Client/blob/master/src/config.js) file.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
